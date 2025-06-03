@@ -37,7 +37,7 @@ npx hardhat run scripts/deploy.js --network localhost
 ```
 
 ## 📄 Token Bilgileri  
-- **Adı:** EFTOKEN  
+- **Adı:** EF TOKEN  
 - **Sembol:** EFT  
 - **Toplam Arz:** 1,000,000 EFT  
 
